@@ -3,4 +3,4 @@
 ![Codewars](https://www.codewars.com/users/daniltro/badges/large)
 
 Мои навык:
-![js](https://www.flaticon.com/ru/free-icon/js_5968292?term=js%27&page=1&position=2&origin=search&related_id=5968292)
+![js](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200)
