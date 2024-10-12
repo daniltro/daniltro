@@ -32,8 +32,7 @@
 
 ---
 
-[Telegram](https://t.me/daniltro)
-|
-[Резюме](https://disk.yandex.ru/i/8XkCTc222OJxnQ)
-|
-[Daniltro1@yandex.ru](daniltro1@yandex.ru)
+## Контакты
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/daniltro) 
+[![CV](https://img.shields.io/badge/Резюме-0088cc?style=flat&logo=&logoColor=white)](https://disk.yandex.ru/i/8XkCTc222OJxnQ)
+[![Email](https://img.shields.io/badge/Email-0088cc?style=flat&logo=gmail&logoColor=white)](mailto:Daniltro1@yandex.ru)
