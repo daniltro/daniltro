@@ -1,16 +1,14 @@
 # Привет, меня зовут Данил ✌️
----
 Я выпускник курса [Фронтенд-разработчик](https://practicum.yandex.ru/frontend-developer/). Во время курса написал несколько интересных проектов на Java-script, React/Redux, также работал с Typescript, ООП и адаптивной версткой.
  
 Написал несколько собственных пет-проектов ⬇️
 
-### Мой профль на Codewars
+## Мой профль на Codewars
 
 ![Codewars](https://www.codewars.com/users/daniltro/badges/large)
 
----
 
-### Стек
+## Стек
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=blue)
