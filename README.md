@@ -1,18 +1,41 @@
+# Привет, меня зовут Данил ✌️
+
+Я выпускник курса [Фронтенд-разработчик](https://practicum.yandex.ru/frontend-developer/). Во время курса написал несколько интересных проектов на Java-script, React/Redux, также работал с Typescript, ООП и адаптивной версткой.
+
+Написал несколько собственных пет-проектов ⬇️
+
+### Мой профль на Codewars
+
 ![Codewars](https://www.codewars.com/users/daniltro/badges/large)
 
-Я выпускник курса [!Фронтенд-разработчик](https://practicum.yandex.ru/frontend-developer/). Во время курса написал несколько интересных проектов на Java-script, React/Redux, также работал с Typescript, ООП и адаптивной версткой.
-
-Еще написал несколько собственных пет-проектов (с ними можно ознакомиться в закрепе ![alt text](image.png))
+---
 
 ### Стек
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" width="50" height="50">
-  <img src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" width="50" height="50">
-  <img src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" width="50" height="50">
-  <img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" width="50" height="50">
-  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="50" height="50">
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="50" height="50">
-  <img src="https://img.icons8.com/?size=100&id=A6r5yddU9uA0&format=png&color=000000" width="50" height="50">
-  
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=blue)
+![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=ff69b4)
+![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=blue)
+![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=blue)
+![redux](https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux&logoColor=blue)
+![jest](https://img.shields.io/badge/jest-000?style=for-the-badge&logo=jest&logoColor=orange)
+![cypress](https://img.shields.io/badge/cypress-000?style=for-the-badge&logo=cypress&logoColor=40E0D0)
+![postman](https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman&logoColor=orange)
+![docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=blue)
+![webpack](https://img.shields.io/badge/webpack-000?style=for-the-badge&logo=webpack&logoColor=light-blue)
+![cra](https://img.shields.io/badge/cra-000?style=for-the-badge&logo=create-react-app&logoColor=40e0d0)
+![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite&logoColor=8A2BE2)
+![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=orange)
+![yarn](https://img.shields.io/badge/yarn-000?style=for-the-badge&logo=yarn&logoColor=blue)
+![reactrouter](https://img.shields.io/badge/React%20Router-000?style=for-the-badge&logo=react-router&logoColor=orange)
+![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=red)
+![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+[Telegram](https://t.me/daniltro)
+|
+[Резюме](https://disk.yandex.ru/i/8XkCTc222OJxnQ)
+|
+[Daniltro1@yandex.ru](daniltro1@yandex.ru)
