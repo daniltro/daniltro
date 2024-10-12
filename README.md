@@ -1,14 +1,18 @@
 # Привет, меня зовут Данил ✌️
-Я выпускник курса [Фронтенд-разработчик](https://practicum.yandex.ru/frontend-developer/). Во время курса написал несколько интересных проектов на Java-script, React/Redux, также работал с Typescript, ООП и адаптивной версткой.
- 
-Написал несколько собственных пет-проектов ⬇️
 
-## Мой профиль на Codewars
+- 🤓 Я выпускник курса [Фронтенд-разработчик](https://practicum.yandex.ru/frontend-developer/). Во время курса написал несколько интересных проектов на Java-script, React/Redux, также работал с Typescript, ООП и адаптивной версткой.
+
+- 🧑‍💻 Написал несколько собственных пет-проектов 
+
+- 💻 Активно ищу работу. [Мое резюме здесь](https://disk.yandex.ru/i/8XkCTc222OJxnQ).
+
+- ⬇️ Посмотрите мои работы в закрепе. ⬇️
+
+## Мой профиль на Codewars:
 
 ![Codewars](https://www.codewars.com/users/daniltro/badges/large)
 
-
-## Стек
+## Мой стек технологий:
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=blue)
@@ -33,6 +37,11 @@
 ---
 
 ## Контакты
-[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/daniltro) 
-[![CV](https://img.shields.io/badge/Резюме-0088cc?style=flat&logo=&logoColor=white)](https://disk.yandex.ru/i/8XkCTc222OJxnQ)
 
+<p style="text-align: center;">
+    <a href="https://t.me/daniltro">
+        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <br>
+    <a href="mailto:daniltro1@yandex.ru">daniltro1@yandex.ru</a>
+</p>
