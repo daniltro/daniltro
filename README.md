@@ -3,7 +3,7 @@
  
 Написал несколько собственных пет-проектов ⬇️
 
-## Мой профль на Codewars
+## Мой профиль на Codewars
 
 ![Codewars](https://www.codewars.com/users/daniltro/badges/large)
 
